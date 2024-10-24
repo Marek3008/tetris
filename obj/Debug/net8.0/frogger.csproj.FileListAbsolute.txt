@@ -1,0 +1,14 @@
+C:\Users\Marek\Dokumenty\Coding\frogger\bin\Debug\net8.0\frogger.exe
+C:\Users\Marek\Dokumenty\Coding\frogger\bin\Debug\net8.0\frogger.deps.json
+C:\Users\Marek\Dokumenty\Coding\frogger\bin\Debug\net8.0\frogger.runtimeconfig.json
+C:\Users\Marek\Dokumenty\Coding\frogger\bin\Debug\net8.0\frogger.dll
+C:\Users\Marek\Dokumenty\Coding\frogger\bin\Debug\net8.0\frogger.pdb
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.AssemblyInfoInputs.cache
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.AssemblyInfo.cs
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.dll
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\refint\frogger.dll
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.pdb
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\frogger.genruntimeconfig.cache
+C:\Users\Marek\Dokumenty\Coding\frogger\obj\Debug\net8.0\ref\frogger.dll
